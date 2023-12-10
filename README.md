@@ -56,6 +56,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdimit01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![gdimit01's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdimit01&show_icons=true&theme=tokyonight)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=gdimit01&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![gdimit01's github activity graph](https://activity-graph.herokuapp.com/graph?username=gdimit01&theme=xcode)](https://git.io/gdimit01)
+
 ---
 
 ### ✍️ Blog Posts:
