@@ -52,15 +52,35 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gdimit01&theme=synthwave)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdimit01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
-![gdimit01's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdimit01&show_icons=true&theme=tokyonight)
+  <!-- GitHub Streak and GitHub Stats Side by Side -->
+  <a href="https://git.io/streak-stats">
+    <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=gdimit01&theme=synthwave" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=gdimit01&show_icons=true&theme=tokyonight" />
+  </a>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=gdimit01&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  <!-- Clear the float -->
+  <div style="clear: both;"></div>
 
-[![gdimit01's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gdimit01&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <!-- Top Languages and Activity Graph Below -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdimit01&layout=compact&theme=vision-friendly-dark" />
+  </a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gdimit01&theme=dracula" />
+  </a>
+
+  <!-- Trophies at the Bottom -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=gdimit01&theme=onedark" />
+  </a>
+
+</div>
+
 
 ---
 
