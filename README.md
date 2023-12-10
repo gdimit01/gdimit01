@@ -101,6 +101,6 @@ Here are some of the projects I've worked on:
 
 ### ✍️ Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [From Psychological Therapies to Tech: My Journey into the World of Full Stack Development](https://dev.to/gdimit01/from-psychological-therapies-to-tech-my-journey-into-the-world-of-full-stack-development-3a0b)
+- [Test Post](https://dev.to/itszed0/test-post-490g)
 <!-- BLOG-POST-LIST:END -->
 
