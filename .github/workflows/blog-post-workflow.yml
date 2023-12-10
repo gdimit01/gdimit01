@@ -13,8 +13,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-        with:
-          persist-credentials: false
+        # Removed persist-credentials: false to allow default behavior
 
       - name: Fetch Blog Posts
         uses: gautamkrishnar/blog-post-workflow@master
@@ -24,3 +23,4 @@ jobs:
           readme_path: README.md
           gh_token: ${{ secrets.GITHUB_TOKEN }}
           commit_message: "Updated with the latest blog posts"
+          # Other parameters can be adjusted as needed
