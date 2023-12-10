@@ -60,7 +60,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=gdimit01&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![gdimit01's github activity graph](https://activity-graph.herokuapp.com/graph?username=gdimit01&theme=xcode)](https://git.io/gdimit01)
+[![gdimit01's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gdimit01&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
