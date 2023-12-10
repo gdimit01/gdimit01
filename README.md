@@ -57,7 +57,7 @@ Here are some of the projects I've worked on:
 
 - **CRUD Website for Web Development Module**: A PHP-based bank website with CRUD functionalities. [View Repository](https://github.com/gdimit01/PHP-bank-website)
 - **GUI Coffee Shop Program**: A Java application with a graphical user interface for managing a coffee shop. [View Repository](https://github.com/gdimit01/CoffeeShopGui)
-- **Data Analysis using Python**: Analyzing data with Python and Jupyter Notebook. (Link to project if available)
+- **Data Analysis using Python**: Analyzing data with Python and Jupyter Notebook.
 - **React Native Cross-Platform Social Activity Mobile App**: My MSc project, a cross-platform mobile app developed using React Native. [View Repository](https://github.com/gdimit01/Otterly)
 - **E-commerce Site Collaboration**: A collaborative project to develop an e-commerce site. [View Repository](https://github.com/jamesrcraigie/Olivcent)
 - **Simple React Bug Tracker**: A bug tracking tool built with React. [View Repository](https://github.com/gdimit01/react-bug-tracker)
