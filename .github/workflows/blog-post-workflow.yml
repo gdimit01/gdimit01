@@ -19,5 +19,6 @@ jobs:
         with:
           max_post_count: 4
           feed_list: "https://dev.to/feed/itszed0"
+          readme_path: README.md
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
           commit_message: "Updated with the latest blog posts"
-          file_name: "README.md"
