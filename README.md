@@ -19,7 +19,7 @@
 ---
 
 ### 👤 About Me:
-I am a Full Stack Developer 
+I am a Junior Full Stack Developer 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 from England.
 - :telescope: I’m working as a Junior Full Stack Developer and contributing to frontend and backend for building web applications.
