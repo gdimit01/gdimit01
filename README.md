@@ -14,17 +14,16 @@
 
 
 ---
+<hr style="border-top: 3px solid #ff49db;"/> 
 
-### 👤 About Me:
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from England.
-- :telescope: I’m working as a Junior Full Stack Develoepr and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/georgi-dimitrov-9a835377/)
-
+<h2 style="color: #ff49db;">👤 About Me:</h2>
+<p style="color: #7efff5;">I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from England.</p>
+<ul style="color: #7efff5;">
+  <li>:telescope: I’m working as a Junior Full Stack Developer and contributing to frontend and backend for building web applications.</li>
+  <li>:seedling: Exploring Technical Content Writing.</li>
+  <li>:zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.</li>
+  <li>📫 How to reach me: <a href="https://www.linkedin.com/in/georgi-dimitrov-9a835377/"><img src="https://img.shields.io/badge/-LinkedIn-neonpink?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a></li>
+</ul>
 ---
 
 ### 🔨🛠️ Languages and Tools:
