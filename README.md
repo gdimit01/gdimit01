@@ -7,7 +7,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there 
+    Hi there, welcome to my GitHub!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -22,9 +22,10 @@
 I am a Junior Full Stack Developer 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 from England.
-- :telescope: I’m working as a Junior Full Stack Developer and contributing to frontend and backend for building web applications.
-- :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :telescope: I’m working as a Junior Full Stack Developer and contributing to frontend and backend for building web/mobile applications.
+- :seedling: I enjoy working in JavaScript and using framewoks such as React, React Native and Angular. Also, I have an interest in Firebase, Node.js, Express.js and API 
+             architecture.
+- :zap: In my free time, I solve problems on GeeksforGeeks and read about full stack technologies.
 - 📫 How to reach me: 
   [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/georgi-dimitrov-9a835377/)
 
