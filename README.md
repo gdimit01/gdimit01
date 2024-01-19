@@ -24,9 +24,8 @@ I am a Junior Full Stack Developer
 from England.
 - :telescope: I’m working as a Junior Full Stack Developer and contributing to frontend and backend for building web/mobile applications.
 - :seedling: I enjoy working in JavaScript and using framewoks such as React, React Native and Angular. Also, I have an 
-            interest in Firebase, Node.js, Express.js and API. Finally, I also use database technologies like MongoDB, 
-            FirebaseDB, MySQL, PostgreSQL and SQLlite. 
-            architecture.
+            interest in Firebase, Node.js, Express.js and API architecture. Finally, I also use database technologies like 
+            MongoDB, FirebaseDB, MySQL, PostgreSQL and SQLlite. 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read about full stack technologies.
 - 📫 How to reach me: 
   [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/georgi-dimitrov-9a835377/)
