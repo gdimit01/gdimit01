@@ -19,10 +19,10 @@
 ---
 
 ### 👤 About Me:
-I am a Junior Full Stack Developer 
+I am a Full Stack Developer 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 from England.
-- :telescope: I’m working as a Junior Full Stack Developer and contributing to frontend and backend for building web/mobile applications.
+- :telescope: I’m working as a Full Stack Developer and contributing to frontend and backend for building web/mobile applications.
 - :seedling: I enjoy working in JavaScript and using framewoks such as React, React Native and Angular. Also, I have an 
             interest in Firebase, Node.js, Express.js and API architecture. Finally, I also use database technologies like 
             MongoDB, FirebaseDB, MySQL, PostgreSQL and SQLlite. 
