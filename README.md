@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/georgi-dimitrov-9a835377/">
+    <a href="https://www.linkedin.com/in/georgi-dimitrov-959442314/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
@@ -28,7 +28,7 @@ from England.
             MongoDB, FirebaseDB, MySQL, PostgreSQL and SQLlite. 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read about full stack technologies.
 - 📫 How to reach me: 
-  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/georgi-dimitrov-9a835377/)
+  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/georgi-dimitrov-959442314/)
 
 ---
 
