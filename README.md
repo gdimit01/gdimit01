@@ -58,7 +58,7 @@ from England.
 
 Here are some of the projects I've worked on:
 
-- **A FF14 Online Market Tracker**: A FF14 Online Market Tracker: FastAPI and WebSocket service streaming live auction-house data from the Universalis API, running EWMA and OLS price forecasts over the tick stream, and surfacing per-item insights through a token-bounded, summarise-first LLM layer. [View Repository]([https://github.com/gdimit01/FF14Online_Market/])
+- **A FF14 Online Market Tracker**: A FF14 Online Market Tracker: FastAPI and WebSocket service streaming live auction-house data from the Universalis API, running EWMA and OLS price forecasts over the tick stream, and surfacing per-item insights through a token-bounded, summarise-first LLM layer. [View Repository](https://github.com/gdimit01/FF14Online_Market/)
 - **Data Analysis using Python**: Analyzing data with Python and Jupyter Notebook.
 - **React Native Cross-Platform Social Activity Mobile App**: My MSc project, a cross-platform mobile app developed using React Native. [View Repository](https://github.com/gdimit01/Otterly)
 
